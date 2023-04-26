@@ -1,4 +1,4 @@
-# robyn
+# Robyn
 <b>Meta's Robyn Implementation</b>
 The following code is my implementation of Meta's Robyn R package. The original source can be found here https://github.com/facebookexperimental/Robyn.
 I have only made some minor changes such as:
